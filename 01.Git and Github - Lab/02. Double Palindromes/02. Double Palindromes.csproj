@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4910BE92-336D-4814-9C72-C8FC057EA679}</ProjectGuid>
+    <ProjectGuid>{54CFFDB4-D765-4F86-8F83-8FC1BB95AB30}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_01.Holidays_between_Two_Dates</RootNamespace>
-    <AssemblyName>01.Holidays between Two Dates</AssemblyName>
+    <RootNamespace>_02.Double_Palindromes</RootNamespace>
+    <AssemblyName>_02.Double_Palindromes</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Holidays between Two Dates.cs" />
+    <Compile Include="Double Palindromes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
